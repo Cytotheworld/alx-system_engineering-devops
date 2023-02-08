@@ -8,3 +8,4 @@ changes the working directory to users home directory >> README.md
 echo changes the working directory to users home directory
 display current directory contents in a long format
 Display current directory contents in a long format
+Display our current directory contents in a long format
