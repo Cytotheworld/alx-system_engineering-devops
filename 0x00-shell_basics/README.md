@@ -6,3 +6,4 @@ changes the working directory to the users home directory >> README.md
 echo changes the working directory to the users home directory
 changes the working directory to users home directory >> README.md
 echo changes the working directory to users home directory
+display current directory contents in a long format
